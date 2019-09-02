@@ -6,8 +6,11 @@ A bare Next.js project with Tailwind CSS installed.
 
 ## Usage
 
+To run this code:
+
 ```
 git clone https://github.com/levelhq/next-js-tailwind.git
+cd next-js-tailwind
 npm install
 npm run dev
 ```
